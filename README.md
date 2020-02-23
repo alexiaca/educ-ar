@@ -1,2 +1,3 @@
-# educ-ar
+# EDUC-AR
 Realidade Aumentada na Educação
+
